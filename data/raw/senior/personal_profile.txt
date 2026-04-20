@@ -1,0 +1,57 @@
+PERSONAL PROFILE — Jason Hao
+Classification: Private / Senior Access Only
+Last updated: 2025-04-12
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROFESSIONAL BACKGROUND
+
+Jason Hao is a graduate student in Artificial Intelligence at Northeastern University
+(MSAI program, Class of 2025). His research focus is AI governance, safety systems,
+and the deployment of responsible AI in enterprise and government contexts.
+
+Prior experience includes software engineering internships at early-stage AI startups,
+with a focus on LLM fine-tuning pipelines and vector retrieval systems.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TECHNOLOGY INTERESTS & PREFERENCES
+
+Preferred AI frameworks:  LangChain, LlamaIndex, raw API (prefers minimal abstractions)
+Preferred LLM providers:  Gemini (primary), OpenAI GPT-4o (secondary)
+Preferred stack:          FastAPI + React + Chroma + SQLite
+Side projects:            AI auditing tools, RAG evaluation benchmarks
+
+Currently tracking:
+  - Agentic AI governance frameworks (EU AI Act compliance tooling)
+  - Vector database performance comparisons (Chroma vs Pinecone vs Weaviate)
+  - Prompt injection research (red-teaming methodologies)
+  - Model watermarking and provenance tracking
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PERSONAL TASTES & LIFESTYLE
+
+Music:       Ambient electronic, lo-fi hip hop, classical piano (Einaudi, Glass)
+Reading:     Technical non-fiction (SICP, Designing Data-Intensive Applications),
+             philosophy of mind (Hofstadter, Dennett)
+Coffee:      Single-origin pour-over, prefers Ethiopian Yirgacheffe
+Food:        Strong preference for Japanese cuisine, particularly omakase
+             and ramen; avoids heavily processed food
+Travel:      Visited Tokyo (2023), Kyoto (2024); planning Lisbon trip in 2025
+Hobbies:     Mechanical keyboards (daily driver: HHKB Pro Hybrid),
+             film photography (Canon AE-1, Kodak Portra 400)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONTACT & ACCOUNTS
+
+Primary email:   hao.meng@northeastern.edu
+Personal email:  (not for distribution)
+LinkedIn:        linkedin.com/in/jasonhao-ai
+GitHub:          github.com/jasonhao-dev
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOTE: This document contains personal preference data and lifestyle information.
+It is strictly confidential and must not be shared outside the system.

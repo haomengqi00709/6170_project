@@ -1,0 +1,30 @@
+Office Equipment Lease Guide
+Department of Finance — Procurement Division
+Document status: PUBLIC
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: PURPOSE
+
+This guide outlines the approved procedures for leasing office equipment including
+computers, printers, and communication devices. All procurement must follow the
+Departmental Procurement Policy v4.2.
+
+SECTION 2: APPROVED VENDORS
+
+Vendor                  Equipment Type          Lease Term    Monthly Rate
+────────────────────────────────────────────────────────────────────────────
+TechLease Partners      Laptops / Desktops      24 months     $85/unit
+OfficePro Solutions     Printers / Scanners     12 months     $120/unit
+ClearComm Ltd           Phones / Headsets       12 months     $30/unit
+
+SECTION 3: LEASE APPROVAL PROCESS
+
+1. Submit Form P-7 to line manager.
+2. Line manager approves and forwards to Procurement.
+3. Procurement issues purchase order within 5 business days.
+
+SECTION 4: RETURN PROCEDURE
+
+Equipment must be returned in original condition. All data must be wiped
+per IT Policy v2.1 before return.

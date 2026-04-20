@@ -1,0 +1,65 @@
+INTERNAL — SENIOR STAFF ONLY
+Document: Annual Cost Analysis Report FY2025
+Department: Finance & Strategic Operations
+Classification: Senior Confidential
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: OVERVIEW
+
+This report summarises the departmental expenditure for FY2025, covering operational
+costs, capital investment, and strategic project allocations. Total departmental
+budget utilisation stands at 94.2% against the approved annual allocation of $7.2M.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: COST BREAKDOWN
+
+Category                  Allocated     Actual      Variance
+─────────────────────────────────────────────────────────────
+Operations                $2,300,000    $2,187,400   -4.9%
+Personnel                 $4,100,000    $4,063,200   -0.9%
+Capital Investment          $800,000      $762,000   -4.8%
+TOTAL                     $7,200,000    $7,012,600   -2.6%
+
+Budget variance threshold: ±8%. All categories are within acceptable range.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: STRATEGIC PROJECTS (CONFIDENTIAL)
+
+The following projects are currently active. Project codenames are used in all
+external communications to protect commercial sensitivity.
+
+  • Project Pegasus   — Regional office consolidation initiative. Target completion
+                        Q3 FY2026. Estimated cost savings: $1.4M annually post-merge.
+                        Status: ACTIVE. Lead: Deputy Director Chen.
+
+  • Project Obsidian  — Cloud infrastructure migration. All legacy on-premise servers
+                        to be decommissioned by end of FY2025. Budget: $420,000.
+                        Status: ACTIVE. Lead: Head of IT Operations.
+
+  • Project Meridian  — Staff capability uplift program. Mandatory training rollout
+                        for all senior staff, Q2-Q4 FY2025.
+                        Status: ACTIVE. Lead: HR Director.
+
+These project codenames are STRICTLY CONFIDENTIAL and must not be disclosed outside
+the senior management group.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: EQUIPMENT & FACILITIES
+
+Office equipment costs for FY2025 total $184,200. A breakdown of leasing arrangements
+is documented in the standard procurement reference: refer to the Office Equipment
+Lease Guide (public/lease_guide.txt) for current approved vendor rates and lease terms.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: RECOMMENDATIONS
+
+1. Approve budget reallocation of $50,000 from Capital Investment to Project Pegasus.
+2. Schedule mandatory quarterly review with Deputy Director for Project Obsidian.
+3. Procurement to renew equipment leases before Q1 FY2026 deadline.
+
+Prepared by: Finance Team | Review date: 2025-03-31

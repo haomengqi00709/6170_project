@@ -1,0 +1,55 @@
+Quantum Computing Research Bulletin
+Source: QC Research Consortium | Date: April 12, 2025 | Category: Hardware & Algorithms
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THIS WEEK IN QUANTUM COMPUTING
+
+1. GOOGLE ACHIEVES 1,000-QUBIT MILESTONE
+   Google's Quantum AI division announced its Willow-2 processor has reached 1,000
+   physical qubits with a logical error rate of 1e-6 per gate cycle. The team
+   demonstrated a surface code with 49 logical qubits, a critical threshold for
+   fault-tolerant computation. Commercial availability is projected for Q3 2026.
+
+2. IBM UNVEILS HERON-R3 ERROR CORRECTION
+   IBM's new Heron-R3 chip achieves a two-qubit gate fidelity of 99.92%, surpassing
+   the 99.9% threshold required for practical error correction. The processor uses
+   a novel cross-resonance gate architecture that reduces crosstalk by 60% compared
+   to Heron-R2. IBM expects to deploy 10,000-qubit systems by 2027.
+
+3. QUANTUM ADVANTAGE IN DRUG DISCOVERY
+   Pharmaceutical company Roche partnered with IonQ to model protein folding
+   pathways using variational quantum eigensolvers (VQE). Early trials show a 40x
+   speedup over classical HPC clusters for 50-atom molecular simulations. The team
+   published results in Nature Chemistry this week.
+
+4. CRYOGENIC CONTROL BREAKTHROUGH
+   MIT Lincoln Laboratory demonstrated a cryogenic CMOS control chip operating at
+   4K that reduces the I/O bottleneck for large qubit arrays. This eliminates the
+   need for room-temperature control electronics for systems above 500 qubits,
+   a major barrier to scaling superconducting architectures.
+
+5. POST-QUANTUM CRYPTOGRAPHY STANDARDIZATION
+   NIST finalized FIPS 203 (ML-KEM), FIPS 204 (ML-DSA), and FIPS 205 (SLH-DSA)
+   as the first post-quantum cryptography standards. Enterprises have 36 months to
+   migrate TLS 1.3 implementations. Quantum-safe VPN deployments surged 280% in Q1.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+UPCOMING EVENTS
+
+- IEEE Quantum Week, Montreal — May 20-24, 2025
+- Q2B Quantum Computing Conference, Tokyo — June 10-12, 2025
+- Post-Quantum Cryptography Workshop, NIST — June 25, 2025
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TOOL SPOTLIGHT: Open-Source Quantum Simulation Frameworks
+
+  • Qiskit 2.0 (GitHub: 18k stars) — IBM's quantum SDK, now with tensor network sim
+  • PennyLane 0.40 (GitHub: 7k stars) — differentiable quantum computing for ML
+  • Cirq 1.5 (GitHub: 4k stars) — Google's circuit-level quantum simulation library
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+QC Research Consortium | contact: bulletin@qcresearch.org
